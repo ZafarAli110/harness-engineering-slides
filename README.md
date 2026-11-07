@@ -1,6 +1,6 @@
-# Harness Engineering and AI SDLC with Claude Code
+# Harness Engineering and AI-DLC with Claude Code
 
-The slides of the Contour Software Engineering workshop **"Harness Engineering and AI SDLC with Claude Code: From
+The slides of the Contour Software Engineering workshop **"Harness Engineering and AI-DLC with Claude Code: From
 Ticket to Verified PR"** (November 2026): how an AI model becomes a coding agent, and how a coding agent fits into
 software delivery.
 
